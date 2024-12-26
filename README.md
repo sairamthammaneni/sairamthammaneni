@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ramthamman60083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramthamman60083" height="30" width="40" /></a>
+<a target='_blank' href="https://twitter.com/ramthamman60083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramthamman60083" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sai-ram-reddy-thammaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-ram-reddy-thammaneni" height="30" width="40" /></a>
 <a href="https://fb.com/sairamreddythammaneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sairamreddythammaneni" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_ram_reddy.thammeneni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_ram_reddy.thammeneni" height="30" width="40" /></a>
