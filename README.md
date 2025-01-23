@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairamthammaneni&show_icons=true&locale=en" alt="sairamthammaneni" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sairamthammaneni" alt="sairamthammaneni" /></a> </p>
+
